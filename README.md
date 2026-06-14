@@ -1,5 +1,9 @@
+<div align="center">
+
 # 🔐 OWIT Global — Vulnerability Assessment Penetration Testing
 ### A Black-Box Security Case Study
+
+</div>
 
 > A sanitized, real-world external vulnerability assessment of a pre-production
 > insurance SaaS platform (multi-tenant, Spring Boot + .NET + Keycloak, with an
